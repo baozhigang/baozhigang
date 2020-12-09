@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 📫 Wechat: baozhigang
 - 😄 Blog: baozhigang.github.io
 
-![madneal's github stats](https://github-readme-stats.vercel.app/api?username=madneal&show_icons=true&theme=radical) 
+![madneal's github stats](https://github-readme-stats.vercel.app/api?username=baozhigang&show_icons=true&theme=radical) 
 
